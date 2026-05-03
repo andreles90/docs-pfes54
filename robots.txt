@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andreles90.github.io/docs-pfes54/sitemap.xml
